@@ -131,38 +131,6 @@ StyliShi/
 
 ---
 
-## 🌐 Deploy to Cloud (2 Clicks, Free Forever)
-
-### Option 1: Streamlit Community Cloud (Recommended)
-
-1. **Push to GitHub**
-   ```bash
-   git init
-   git add .
-   git commit -m "Add StyliShi fashion recommender"
-   git remote add origin https://github.com/ialisha64/stylishi.git
-   git push -u origin main
-   ```
-
-2. **Deploy on Streamlit**
-   - Go to [share.streamlit.io](https://share.streamlit.io)
-   - Click "New app"
-   - Select your GitHub repo `stylishi`
-   - Main file: `app.py`
-   - Click "Deploy"! ✨
-
-**Important:** Before deploying, run `python download_dataset.py` locally and commit the `embeddings/` folder (or set up a small demo dataset <100MB).
-
-### Option 2: HuggingFace Spaces
-
-1. Create a new Space at [huggingface.co/spaces](https://huggingface.co/spaces)
-2. Choose **Streamlit** SDK
-3. Upload all files
-4. Add `download_dataset.py` to startup command in Settings
-5. Your app is live! 🎉
-
----
-
 ## 📊 Performance Benchmarks
 
 Tested on **Intel i5 CPU** (no GPU):
