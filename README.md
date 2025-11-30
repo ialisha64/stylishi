@@ -257,8 +257,6 @@ MIT License - feel free to use for your portfolio, research, or commercial proje
 
 <div align="center">
 
-**⭐ Star this repo if it helped your EDISS application! ⭐**
-
 Made with ❤️ and lots of ☕
 
 </div>
