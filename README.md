@@ -144,14 +144,6 @@ Tested on **Intel i5 CPU** (no GPU):
 
 ---
 
-## 🧠 For EDISS Motivation Letter
-
-> *"I built a real-time multimodal fashion search engine combining computer vision and scalable vector search. The system uses OpenAI's CLIP model to generate 512-dimensional embeddings from live camera feeds and retrieves visually similar items from a 50,000+ item catalog in under 100 milliseconds using FAISS. This project demonstrates my proficiency in deep learning (PyTorch), production ML systems (model optimization, vector databases), and full-stack deployment (Streamlit, cloud hosting)—skills essential for data-intensive sciences research in EDISS."*
-
-Use this in your **Technical Skills** or **Portfolio Projects** section! 🎓
-
----
-
 ## 🔧 Advanced Usage
 
 ### Use Your Own Dataset
