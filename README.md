@@ -291,8 +291,6 @@ MIT License - feel free to use for your portfolio, research, or commercial proje
 
 ## 📧 Contact
 
-Built by **StyliShi Team** for Erasmus Mundus EDISS Application
-
 - 🐙 GitHub: [@ialisha64](https://github.com/ialisha64)
 
 ---
